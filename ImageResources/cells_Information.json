@@ -1,0 +1,57 @@
+[
+  {
+    "type": "101",
+    "rowHeight": "75",
+    "cellName": "SPNewsVideoList",
+    "cellIdentifier": "newsVideoListCellIdentify"
+  },
+  {
+    "type": "video",
+    "rowHeight": "75",
+    "cellName": "SPNewsVideoCell",
+    "cellIdentifier": "newsVideoCellIdentify"
+  },
+  {
+    "type": "videoDetail",
+    "rowHeight": "75",
+    "cellName": "SPVideoCell",
+    "cellIdentifier": "videoCellIdentify"
+  },
+  {
+    "type": "106",
+    "rowHeight": "75",
+    "cellName": "SPNewsCell",
+    "cellIdentifier": "NewsCellIdentify"
+  },
+  {
+    "type": "107",
+    "rowHeight": "75",
+    "cellName": "SPNewsCell",
+    "cellIdentifier": "NewsCellIdentify"
+  },
+  {
+    "type": "108",
+    "rowHeight": "75",
+    "cellName": "SPNewsSubjectCell",
+    "cellIdentifier": "newsSubjectCellIdentify"
+  },
+ 
+ {
+ "type": "iad",
+ "rowHeight": "75",
+ "cellName": "SPNewsSubjectCell",
+ "cellIdentifier": "newsSubjectCellIdentify"
+ },
+ {
+ "type": "slide",
+ "rowHeight": "142",
+ "cellName": "SPSlideCell",
+ "cellIdentifier": "SPSlideCellIdentifier"
+ },
+  {
+    "type": "text",
+    "rowHeight": "75",
+    "cellName": "SPNewsCell",
+    "cellIdentifier": "NewsCellIdentify"
+  }
+]

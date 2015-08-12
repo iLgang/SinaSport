@@ -1,0 +1,167 @@
+ [
+  {
+  "team_id" : "934",
+  "team_name" : "德国"
+  },
+  {
+  "team_id" : "28",
+  "team_name" : "多特蒙德"
+  },
+  {
+  "team_id" : "162",
+  "team_name" : "马德里竞技"
+  },
+  {
+  "team_id" : "922",
+  "team_name" : "英格兰"
+  },
+  {
+  "team_id" : "35",
+  "team_name" : "汉堡"
+  },
+  {
+  "team_id" : "78",
+  "team_name" : "云达不来梅 "
+  },
+  {
+  "team_id" : "924",
+  "team_name" : "比利时"
+  },
+  {
+  "team_id" : "34",
+  "team_name" : "沙尔克04"
+  },
+  {
+  "team_id" : "84",
+  "team_name" : "沃尔夫斯堡"
+  },
+  {
+  "team_id" : "70",
+  "team_name" : "阿斯顿维拉"
+  },
+  {
+  "team_id" : "66",
+  "team_name" : "热刺"
+  },
+  {
+  "team_id" : "112",
+  "team_name" : "乌迪内斯"
+  },
+  {
+  "team_id" : "229",
+  "team_name" : "那不勒斯"
+  },
+  {
+  "team_id" : "110",
+  "team_name" : "佛罗伦萨"
+  },
+  {
+  "team_id" : "106",
+  "team_name" : "拉齐奥"
+  },
+  {
+  "team_id" : "2196",
+  "team_name" : "锡耶纳"
+  },
+  {
+  "team_id" : "111",
+  "team_name" : "罗马"
+  },
+  {
+  "team_id" : "163",
+  "team_name" : "马拉加"
+  },
+  {
+  "team_id" : "1327",
+  "team_name" : "切沃"
+  },
+  {
+  "team_id" : "166",
+  "team_name" : "塞维利亚"
+  },
+  {
+  "team_id" : "219",
+  "team_name" : "比利亚雷亚尔"
+  },
+  {
+  "team_id" : "2190",
+  "team_name" : "巴勒莫"
+  },
+  {
+  "id" : "1",
+  "team_uname" : "皇马新闻",
+  "team_uid" : "1990309453",
+  "team_id" : "157",
+  "team_name" : "皇家马德里"
+  },
+  {
+  "id" : "3",
+  "team_uname" : "巴萨新闻",
+  "team_uid" : "1990303727",
+  "team_id" : "130",
+  "team_name" : "巴塞罗那"
+  },
+  {
+  "id" : "5",
+  "team_uname" : "曼联新闻",
+  "team_uid" : "3204839810",
+  "team_id" : "52",
+  "team_name" : "曼联"
+  },
+  {
+  "id" : "7",
+  "team_uname" : "曼城队新闻",
+  "team_uid" : "2332799695",
+  "team_id" : "216",
+  "team_name" : "曼城"
+  },
+  {
+  "id" : "9",
+  "team_uname" : "切尔西新闻",
+  "team_uid" : "1990954515",
+  "team_id" : "60",
+  "team_name" : "切尔西"
+  },
+  {
+  "id" : "11",
+  "team_uname" : "阿森纳新闻",
+  "team_uid" : "2075686772",
+  "team_id" : "61",
+  "team_name" : "阿森纳"
+  },
+  {
+  "id" : "13",
+  "team_uname" : "利物浦新闻",
+  "team_uid" : "2218894100",
+  "team_id" : "53",
+  "team_name" : "利物浦"
+  },
+  {
+  "id" : "15",
+  "team_uname" : "拜仁新闻",
+  "team_uid" : "2971183691",
+  "team_id" : "32",
+  "team_name" : "拜仁慕尼黑"
+  },
+  {
+  "id" : "17",
+  "team_uname" : "米兰新闻",
+  "team_uid" : "1990883881",
+  "team_id" : "104",
+  "team_name" : "AC米兰"
+  },
+  {
+  "id" : "19",
+  "team_uname" : "国米新闻",
+  "team_uid" : "1281488180",
+  "team_id" : "103",
+  "team_name" : "国际米兰"
+  },
+  {
+  "id" : "21",
+  "team_uname" : "尤文新闻",
+  "team_uid" : "1990275137",
+  "team_id" : "108",
+  "team_name" : "尤文图斯"
+  }
+  ]

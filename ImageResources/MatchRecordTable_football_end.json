@@ -1,0 +1,436 @@
+ [
+  {
+  "section": "0",
+  "title": "时间轴",
+  "matchstyle": "football",
+  "tablefontsize": "14",
+  "cellheight": "50",
+  "tablename": "time_line",
+  "columnkeys": [
+                 {
+                 "headname": "球员",
+                 "justname": "0",
+                 "headwidth": "76",
+                 "codevalue": "team1_player_name",
+                 "textalignment":"centre"
+                 },
+                 {
+                 "headname": "事件",
+                 "justname": "0",
+                 "headwidth": "65",
+                 "codevalue": "team1_event_code_cn",
+                 "textalignment":"centre"
+                 },
+                 {
+                 "headname": "时间轴",
+                 "justname": "1",
+                 "headwidth": "38",
+                 "codevalue": "time",
+                 "textalignment":"centre"
+                 },
+                 {
+                 "headname": "事件",
+                 "justname": "0",
+                 "headwidth": "65",
+                 "codevalue": "team2_event_code_cn",
+                 "textalignment":"centre"
+                 },
+                 {
+                 "headname": "球员",
+                 "justname": "0",
+                 "headwidth": "76",
+                 "codevalue": "team2_player_name",
+                 "textalignment":"centre"
+                 }
+                 ]
+  },
+  {
+  "section": "2",
+  "title": "比赛统计",
+  "matchstyle": "football",
+  "tablefontsize": "14",
+  "cellheight": "50",
+  "tablename": "Statistic",
+  "columnkeys": [
+                 {
+                 "headname": "数据",
+                 "justname": "0",
+                 "headwidth": "125",
+                 "codevalue": "c1",
+                 "textalignment":"centre"
+                 },
+                 {
+                 "headname": "项目",
+                 "justname": "0",
+                 "headwidth": "70",
+                 "codevalue": "c2",
+                 "textalignment":"centre"
+                 },
+                 {
+                 "headname": "数据",
+                 "justname": "1",
+                 "headwidth": "125",
+                 "codevalue": "c3",
+                 "textalignment":"centre"
+                 }
+                 ]
+  },
+  {
+  "section": "3",
+  "title": "首发阵容",
+  "matchstyle": "football",
+  "tablefontsize": "14",
+  "cellheight": "50",
+  "tablename": "linkup",
+  "columnkeys": [
+                 {
+                 "headname": "号码",
+                 "justname": "0",
+                 "headwidth": "39",
+                 "codevalue": "team1_shirt_number",
+                 "textalignment":"centre"
+                 },
+                 {
+                 "headname": "位置",
+                 "justname": "1",
+                 "headwidth": "37",
+                 "codevalue": "team1_position_cn",
+                 "textalignment":"centre"
+                 },
+                 {
+                 "headname": "球员",
+                 "justname": "0",
+                 "headwidth": "84",
+                 "codevalue": "team1_l_name",
+                 "textalignment":"centre"
+                 },
+                 {
+                 "headname": "球员",
+                 "justname": "0",
+                 "headwidth": "84",
+                 "codevalue": "team2_l_name",
+                 "textalignment":"centre"
+                 },
+                 {
+                 "headname": "位置",
+                 "justname": "1",
+                 "headwidth": "37",
+                 "codevalue": "team2_position_cn",
+                 "textalignment":"centre"
+                 },
+                 {
+                 "headname": "号码",
+                 "justname": "0",
+                 "headwidth": "39",
+                 "codevalue": "team2_shirt_number",
+                 "textalignment":"centre"
+                 }
+                 ]
+  },
+  {
+  "section": "4",
+  "title": "赔率",
+  "matchstyle": "football",
+  "tablefontsize": "14",
+  "cellheight": "50",
+  "tablename": "lottery",
+  "columnkeys": [
+                 {
+                 "headname": "行名",
+                 "justname": "0",
+                 "headwidth": "41",
+                 "codevalue": "c1",
+                 "textalignment":"centre"
+                 },
+                 {
+                 "headname": "胜",
+                 "justname": "0",
+                 "headwidth": "93",
+                 "codevalue": "o1",
+                 "textalignment":"centre"
+                 },
+                 {
+                 "headname": "平",
+                 "justname": "1",
+                 "headwidth": "93",
+                 "codevalue": "o2",
+                 "textalignment":"centre"
+                 },
+                 {
+                 "headname": "负",
+                 "justname": "1",
+                 "headwidth": "93",
+                 "codevalue": "o3",
+                 "textalignment":"centre"
+                 }
+                ]
+  },
+  {
+  "section": "5",
+  "title": "排名",
+  "tablename": "Match_TeamOrder",
+  "matchstyle": "football",
+  "tablefontsize": "14",
+  "cellheight": "50",
+  "tablehead": [
+                {
+                "headname": "名次",
+                "headwidth": "35",
+                "textalignment":"centre"
+                },
+                {
+                "headname": "球队",
+                "headwidth": "105",
+                "textalignment":"centre"
+                },
+                {
+                "headname": "积分",
+                "headwidth": "35",
+                "textalignment":"centre"
+                },
+                {
+                "headname": "场次",
+                "headwidth": "35",
+                "textalignment":"centre"
+                },
+                {
+                "headname": "胜",
+                "headwidth": "25",
+                "textalignment":"centre"
+                },
+                {
+                "headname": "平",
+                "headwidth": "25",
+                "textalignment":"centre"
+                },
+                {
+                "headname": "负",
+                "headwidth": "25",
+                "textalignment":"centre"
+                },
+                {
+                "headname": "净胜",
+                "headwidth": "35",
+                "textalignment":"centre"
+                }
+                ],
+  "columnkeys": [
+                 {
+                 "headname": "名次",
+                 "justname": "0",
+                 "headwidth": "35",
+                 "codevalue": "team_order",
+                 "textalignment":"centre"
+                 },
+                 {
+                 "headname": "球队",
+                 "justname": "0",
+                 "headwidth": "105",
+                 "codevalue": "team_cn",
+                 "textalignment":"centre"
+                 },
+                 {
+                 "headname": "积分",
+                 "justname": "0",
+                 "headwidth": "35",
+                 "codevalue": "score",
+                 "textalignment":"centre"
+                 },
+                 {
+                 "headname": "场次",
+                 "justname": "0",
+                 "headwidth": "35",
+                 "codevalue": "count",
+                 "textalignment":"centre"
+                 },
+                 {
+                 "headname": "胜",
+                 "justname": "0",
+                 "headwidth": "25",
+                 "codevalue": "win",
+                 "textalignment":"centre"
+                 },
+                 {
+                 "headname": "平",
+                 "justname": "0",
+                 "headwidth": "25",
+                 "codevalue": "draw",
+                 "textalignment":"centre"
+                 },
+                 {
+                 "headname": "负",
+                 "justname": "0",
+                 "headwidth": "25",
+                 "codevalue": "lose",
+                 "textalignment":"centre"
+                 },
+                 {
+                 "headname": "净胜",
+                 "justname": "0",
+                 "headwidth": "35",
+                 "codevalue": "truegoal",
+                 "textalignment":"centre"
+                 }
+                 ]
+  },
+  {
+  "section": "6",
+  "title": "竞猜活动",
+  "matchstyle": "football",
+  "tablefontsize": "14",
+  "cellheight": "50",
+  "tablename": "lotto",
+  "columnkeys": [{
+                 "headname": "负",
+                 "justname": "0",
+                 "headwidth": "25",
+                 "codevalue": "lose",
+                 "textalignment":"centre"
+                 },
+                 {
+                 "headname": "净胜",
+                 "justname": "0",
+                 "headwidth": "35",
+                 "codevalue": "truegoal",
+                 "textalignment":"centre"
+                 }]
+  },
+  {
+  "section": "7",
+  "title": "历史交锋",
+  "matchstyle": "football",
+  "tablefontsize": "14",
+  "cellheight": "50",
+  "tablename": "Match_vshis",
+  "columnkeys": [
+                 {
+                 "headname": "时间",
+                 "justname": "0",
+                 "headwidth": "70",
+                 "codevalue": "date",
+                 "textalignment":"centre"
+                 },
+                 {
+                 "headname": "球队1",
+                 "justname": "1",
+                 "headwidth": "80",
+                 "codevalue": "Team1",
+                 "textalignment":"centre"
+                 },
+                 {
+                 "headname": "比分",
+                 "justname": "1",
+                 "headwidth": "40",
+                 "codevalue": ["Score1","Score2"],
+                 "textalignment":"centre"
+                 },
+                {
+                 "headname": "球队2",
+                 "justname": "1",
+                 "headwidth": "80",
+                 "codevalue": "Team2",
+                 "textalignment":"centre"
+                 },
+                {
+                 "headname": "赛事",
+                 "justname": "1",
+                 "headwidth": "50",
+                 "codevalue": "LeagueType_cn",
+                 "textalignment":"centre"
+                 }
+                 ]
+  },
+  {
+  "section": "8",
+  "title": "近期战绩",
+  "matchstyle": "football",
+  "tablefontsize": "14",
+  "cellheight": "50",
+  "tablename": "Match_Score",
+
+  "columnkeys": [
+                 {
+                 "headname": "时间",
+                 "justname": "0",
+                 "headwidth": "70",
+                 "codevalue": "date",
+                 "textalignment":"centre"
+                 },
+                 {
+                 "headname": "球队1",
+                 "justname": "1",
+                 "headwidth": "80",
+                 "codevalue": "Team1",
+                 "textalignment":"centre"
+                 },
+                 {
+                 "headname": "比分",
+                 "justname": "1",
+                 "headwidth": "40",
+                 "codevalue": ["Score1","Score2"],
+                 "textalignment":"centre"
+                 },
+                 {
+                 "headname": "球队2",
+                 "justname": "1",
+                 "headwidth": "80",
+                 "codevalue": "Team2",
+                 "textalignment":"centre"
+                 },
+                 {
+                 "headname": "赛事",
+                 "justname": "1",
+                 "headwidth": "50",
+                 "codevalue": "LeagueType_cn",
+                 "textalignment":"centre"
+                 }
+                 ]
+  }, {
+  "section": "9",
+  "title": "未来场次",
+  "matchstyle": "football",
+  "tablefontsize": "14",
+  "cellheight": "50",
+  "tablename": "Match_Pre",
+
+  "columnkeys": [
+                 {
+                 "headname": "时间",
+                 "justname": "0",
+                 "headwidth": "70",
+                 "codevalue": "date",
+                 "textalignment":"centre"
+                 },
+                 {
+                 "headname": "球队1",
+                 "justname": "1",
+                 "headwidth": "80",
+                 "codevalue": "Team1",
+                 "textalignment":"centre"
+                 },
+                 {
+                 "headname": "比分",
+                 "justname": "1",
+                 "headwidth": "40",
+                 "codevalue": ["Score1","Score2"],
+                 "textalignment":"centre"
+                 },
+                 {
+                 "headname": "球队2",
+                 "justname": "1",
+                 "headwidth": "80",
+                 "codevalue": "Team2",
+                 "textalignment":"centre"
+                 },
+                 {
+                 "headname": "赛事",
+                 "justname": "1",
+                 "headwidth": "50",
+                 "codevalue": "LeagueType_cn",
+                 "textalignment":"centre"
+                 }
+                 ]
+  }
+
+
+  ]

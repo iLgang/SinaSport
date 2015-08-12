@@ -1,0 +1,42 @@
+ [
+  {
+  "player_id" : "18221",
+  "player_name" : "皮克",
+  "datafrom" : "opta"
+  },
+  {
+  "player_id" : "61632",
+  "player_name" : "荣昊",
+  "datafrom" : "opta"
+  },
+  {
+  "player_id" : "37605",
+  "player_name" : "厄齐尔",
+  "datafrom" : "opta"
+  },
+  {
+  "player_id" : "86537",
+  "player_name" : "马季奇",
+  "datafrom" : "opta"
+  },
+  {
+  "player_id" : "3",
+  "player_name" : "易建联",
+  "datafrom" : "cba"
+  },
+  {
+  "player_id" : "647",
+  "player_name" : "可兰白克",
+  "datafrom" : "cba"
+  },
+  {
+  "player_id" : "4287",
+  "player_name" : "诺阿",
+  "datafrom" : "nba"
+  },
+  {
+  "player_id" : "4563",
+  "player_name" : "哈登",
+  "datafrom" : "nba"
+  }
+]

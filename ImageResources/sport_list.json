@@ -1,0 +1,1385 @@
+{
+   "result" : {
+      "status" : {
+         "msg" : "",
+         "code" : 0
+      },
+      "data" : [
+         {
+            "show_team" : 0,
+            "show_match" : 1,
+            "show_news" : 1,
+            "adimage" : "",
+            "match" : [],
+            "name" : "NBA",
+            "show_data" : 1,
+            "logo" : "http://i2.sinaimg.cn/ty/2011hqj/20140508/logo/nba.png",
+            "id" : "nba",
+            "adtitle" : "",
+            "type" : "basketball",
+            "team" : {
+               "top" : [
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/nba_13.png",
+                     "name" : "\u6e56\u4eba",
+                     "id" : "nba_13"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/nba_14.png",
+                     "name" : "\u70ed\u706b",
+                     "id" : "nba_14"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/nba_10.png",
+                     "name" : "\u706b\u7bad",
+                     "id" : "nba_10"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/nba_5.png",
+                     "name" : "\u9a91\u58eb",
+                     "id" : "nba_5"
+                  }
+               ],
+               "more" : [
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/nba_25.png",
+                     "name" : "\u96f7\u9706",
+                     "id" : "nba_25"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/nba_24.png",
+                     "name" : "\u9a6c\u523a",
+                     "id" : "nba_24"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/nba_2.png",
+                     "name" : "\u51ef\u5c14\u7279\u4eba",
+                     "id" : "nba_2"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/nba_12.png",
+                     "name" : "\u5feb\u8239",
+                     "id" : "nba_12"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/nba_18.png",
+                     "name" : "\u5c3c\u514b\u65af",
+                     "id" : "nba_18"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/nba_4.png",
+                     "name" : "\u516c\u725b",
+                     "id" : "nba_4"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/nba_6.png",
+                     "name" : "\u5c0f\u725b",
+                     "id" : "nba_6"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/nba_1.png",
+                     "name" : "\u8001\u9e70",
+                     "id" : "nba_1"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/nba_29.png",
+                     "name" : "\u7070\u718a",
+                     "id" : "nba_29"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/nba_11.png",
+                     "name" : "\u6b65\u884c\u8005",
+                     "id" : "nba_11"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/nba_16.png",
+                     "name" : "\u68ee\u6797\u72fc",
+                     "id" : "nba_16"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/nba_22.png",
+                     "name" : "\u5f00\u62d3\u8005",
+                     "id" : "nba_22"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/nba_9.png",
+                     "name" : "\u52c7\u58eb",
+                     "id" : "nba_9"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/nba_7.png",
+                     "name" : "\u6398\u91d1",
+                     "id" : "nba_7"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/nba_26.png",
+                     "name" : "\u7235\u58eb",
+                     "id" : "nba_26"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/nba_21.png",
+                     "name" : "\u592a\u9633",
+                     "id" : "nba_21"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/nba_3.png",
+                     "name" : "\u9e48\u9e55",
+                     "id" : "nba_3"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/nba_19.png",
+                     "name" : "\u9b54\u672f",
+                     "id" : "nba_19"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/nba_28.png",
+                     "name" : "\u731b\u9f99",
+                     "id" : "nba_28"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/nba_27.png",
+                     "name" : "\u5947\u624d",
+                     "id" : "nba_27"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/nba_20.png",
+                     "name" : "76\u4eba",
+                     "id" : "nba_20"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/nba_15.png",
+                     "name" : "\u96c4\u9e7f",
+                     "id" : "nba_15"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/nba_8.png",
+                     "name" : "\u6d3b\u585e",
+                     "id" : "nba_8"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/nba_30.png",
+                     "name" : "\u9ec4\u8702",
+                     "id" : "nba_30"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/nba_17.png",
+                     "name" : "\u7bee\u7f51",
+                     "id" : "nba_17"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/nba_23.png",
+                     "name" : "\u56fd\u738b",
+                     "id" : "nba_23"
+                  }
+               ]
+            }
+         },
+         {
+            "show_team" : 0,
+            "show_match" : 1,
+            "show_news" : 1,
+            "adimage" : "http://i3.sinaimg.cn/ty/2011hqj/20140508/logo/xili.png",
+            "match" : [
+               {
+                  "logo" : "http://i3.sinaimg.cn/ty/2011hqj/20140508/logo/11.png",
+                  "show_match" : 1,
+                  "show_news" : 1,
+                  "name" : "\u6b27\u8054\u676f",
+                  "show_data" : 1,
+                  "id" : "11"
+               },
+               {
+                  "logo" : "http://i1.sinaimg.cn/ty/2011hqj/20140508/logo/332.png",
+                  "show_match" : 1,
+                  "show_news" : 0,
+                  "name" : "\u8d85\u7ea7\u676f",
+                  "show_data" : 0,
+                  "id" : "332"
+               }
+            ],
+            "name" : "\u6b27\u51a0",
+            "show_data" : 1,
+            "logo" : "http://i2.sinaimg.cn/ty/2011hqj/20140508/logo/10.png",
+            "id" : "10",
+            "adtitle" : "\u559c\u529b\u8d5e\u52a9",
+            "type" : "football",
+            "team" : {
+               "top" : [
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/216.png",
+                     "name" : "\u66fc\u57ce",
+                     "id" : "216",
+                     "proid" : "4"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/60.png",
+                     "name" : "\u5207\u5c14\u897f",
+                     "id" : "60",
+                     "proid" : "4"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/61.png",
+                     "name" : "\u963f\u68ee\u7eb3",
+                     "id" : "61",
+                     "proid" : "4"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/157.png",
+                     "name" : "\u7687\u5bb6\u9a6c\u5fb7\u91cc",
+                     "id" : "157",
+                     "proid" : "2"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/130.png",
+                     "name" : "\u5df4\u585e\u7f57\u90a3",
+                     "id" : "130",
+                     "proid" : "2"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/108.png",
+                     "name" : "\u5c24\u6587\u56fe\u65af",
+                     "id" : "108",
+                     "proid" : "1"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/32.png",
+                     "name" : "\u62dc\u4ec1\u6155\u5c3c\u9ed1",
+                     "id" : "32",
+                     "proid" : "3"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/28.png",
+                     "name" : "\u591a\u7279\u8499\u5fb7",
+                     "id" : "28",
+                     "proid" : "3"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/316.png",
+                     "name" : "\u5df4\u9ece\u5723\u65e5\u5c14\u66fc",
+                     "id" : "316",
+                     "proid" : "5"
+                  }
+               ],
+               "more" : []
+            }
+         },
+         {
+            "show_team" : 0,
+            "show_match" : 1,
+            "show_news" : 1,
+            "adimage" : "http://i2.sinaimg.cn/ty/2011hqj/20140508/logo/jiashibo.png",
+            "match" : [
+               {
+                  "logo" : "http://i0.sinaimg.cn/ty/2011hqj/20140508/logo/7.png",
+                  "show_match" : 0,
+                  "show_news" : 0,
+                  "name" : "\u8db3\u603b\u676f",
+                  "show_data" : 0,
+                  "id" : "7"
+               },
+               {
+                  "logo" : "http://i1.sinaimg.cn/ty/2011hqj/20140508/logo/8.png",
+                  "show_match" : 1,
+                  "show_news" : 0,
+                  "name" : "\u8054\u8d5b\u676f",
+                  "show_data" : 0,
+                  "id" : "8"
+               },
+               {
+                  "logo" : "http://i2.sinaimg.cn/ty/2011hqj/20140508/logo/333.png",
+                  "show_match" : 1,
+                  "show_news" : 0,
+                  "name" : "\u793e\u533a\u76fe\u676f",
+                  "show_data" : 0,
+                  "id" : "333"
+               }
+            ],
+            "name" : "\u82f1\u8d85",
+            "show_data" : 1,
+            "logo" : "http://i1.sinaimg.cn/ty/2011hqj/20140508/logo/4.png",
+            "id" : "4",
+            "adtitle" : "\u5609\u58eb\u4f2f\u8d5e\u52a9",
+            "type" : "football",
+            "team" : {
+               "top" : [
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/52.png",
+                     "name" : "\u66fc\u8054",
+                     "id" : "52"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/61.png",
+                     "name" : "\u963f\u68ee\u7eb3",
+                     "id" : "61"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/60.png",
+                     "name" : "\u5207\u5c14\u897f",
+                     "id" : "60"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/53.png",
+                     "name" : "\u5229\u7269\u6d66",
+                     "id" : "53"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/216.png",
+                     "name" : "\u66fc\u57ce",
+                     "id" : "216"
+                  }
+               ],
+               "more" : [
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/66.png",
+                     "name" : "\u70ed\u523a",
+                     "id" : "66"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/63.png",
+                     "name" : "\u7ebd\u5361\u65af\u5c14",
+                     "id" : "63"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/70.png",
+                     "name" : "\u963f\u65af\u987f\u7ef4\u62c9",
+                     "id" : "70"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/98.png",
+                     "name" : "\u897f\u6c49\u59c6",
+                     "id" : "98"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/278.png",
+                     "name" : "\u897f\u5e03\u7f57\u59c6\u7ef4\u5947",
+                     "id" : "278"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/2297.png",
+                     "name" : "\u65af\u6258\u514b\u57ce",
+                     "id" : "2297"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/296.png",
+                     "name" : "\u5973\u738b\u516c\u56ed\u5de1\u6e38\u8005",
+                     "id" : "296"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/94.png",
+                     "name" : "\u5357\u5b89\u666e\u987f",
+                     "id" : "94"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/7145.png",
+                     "name" : "\u65af\u65fa\u897f",
+                     "id" : "7145"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/73.png",
+                     "name" : "\u57c3\u5f17\u987f",
+                     "id" : "73"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/96.png",
+                     "name" : "\u6851\u5fb7\u5170",
+                     "id" : "96"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/3908.png",
+                     "name" : "\u80e1\u5c14\u57ce",
+                     "id" : "3908"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/292.png",
+                     "name" : "\u6c34\u6676\u5bab",
+                     "id" : "292"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/280.png",
+                     "name" : "\u4f2f\u6069\u5229",
+                     "id" : "280"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/92.png",
+                     "name" : "\u83b1\u5207\u7279",
+                     "id" : "92"
+                  }
+               ]
+            }
+         },
+         {
+            "show_team" : 0,
+            "show_match" : 1,
+            "show_news" : 1,
+            "adimage" : "",
+            "match" : [
+               {
+                  "logo" : "http://i3.sinaimg.cn/ty/2011hqj/20140508/logo/15.png",
+                  "show_match" : 1,
+                  "show_news" : 0,
+                  "name" : "\u56fd\u738b\u676f",
+                  "show_data" : 0,
+                  "id" : "15"
+               },
+               {
+                  "logo" : "http://i0.sinaimg.cn/ty/2011hqj/20140508/logo/29.png",
+                  "show_match" : 1,
+                  "show_news" : 0,
+                  "name" : "\u8d85\u7ea7\u676f",
+                  "show_data" : 0,
+                  "id" : "29"
+               }
+            ],
+            "name" : "\u897f\u7532",
+            "show_data" : 1,
+            "logo" : "http://i3.sinaimg.cn/ty/2011hqj/20140508/logo/2.png",
+            "id" : "2",
+            "adtitle" : "",
+            "type" : "football",
+            "team" : {
+               "top" : [
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/157.png",
+                     "name" : "\u7687\u5bb6\u9a6c\u5fb7\u91cc",
+                     "id" : "157"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/130.png",
+                     "name" : "\u5df4\u585e\u7f57\u90a3",
+                     "id" : "130"
+                  }
+               ],
+               "more" : [
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/169.png",
+                     "name" : "\u74e6\u4f26\u897f\u4e9a",
+                     "id" : "169"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/162.png",
+                     "name" : "\u9a6c\u5fb7\u91cc\u7ade\u6280",
+                     "id" : "162"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/163.png",
+                     "name" : "\u9a6c\u62c9\u52a0",
+                     "id" : "163"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/182.png",
+                     "name" : "\u897f\u73ed\u7259\u4eba",
+                     "id" : "182"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/166.png",
+                     "name" : "\u585e\u7ef4\u5229\u4e9a",
+                     "id" : "166"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/131.png",
+                     "name" : "\u6bd5\u5c14\u5df4\u9102",
+                     "id" : "131"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/160.png",
+                     "name" : "\u7687\u5bb6\u793e\u4f1a",
+                     "id" : "160"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/4405.png",
+                     "name" : "\u8d6b\u5854\u83f2",
+                     "id" : "4405"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/161.png",
+                     "name" : "\u62c9\u79d1\u9c81\u5c3c\u4e9a",
+                     "id" : "161"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/165.png",
+                     "name" : "\u585e\u5c14\u5854",
+                     "id" : "165"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/4385.png",
+                     "name" : "\u83b1\u4e07\u7279",
+                     "id" : "4385"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/156.png",
+                     "name" : "\u5df4\u5217\u5361\u8bfa",
+                     "id" : "156"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/23165.png",
+                     "name" : "\u683c\u62c9\u7eb3\u8fbe",
+                     "id" : "23165"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/219.png",
+                     "name" : "\u6bd4\u5229\u4e9a\u96f7\u4e9a\u5c14",
+                     "id" : "219"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/4418.png",
+                     "name" : "\u963f\u5c14\u6885\u91cc\u4e9a",
+                     "id" : "4418"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/4386.png",
+                     "name" : "\u57c3\u5c14\u5207",
+                     "id" : "4386"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/4417.png",
+                     "name" : "\u57c3\u74e6\u5c14",
+                     "id" : "4417"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/4406.png",
+                     "name" : "\u79d1\u5c14\u591a\u5df4",
+                     "id" : "4406"
+                  }
+               ]
+            }
+         },
+         {
+            "show_team" : 0,
+            "show_match" : 1,
+            "show_news" : 1,
+            "adimage" : "",
+            "match" : [
+               {
+                  "logo" : "http://i2.sinaimg.cn/ty/2011hqj/20140508/logo/18.png",
+                  "show_match" : 1,
+                  "show_news" : 0,
+                  "name" : "\u610f\u5927\u5229\u676f",
+                  "show_data" : 0,
+                  "id" : "18"
+               },
+               {
+                  "logo" : "http://i3.sinaimg.cn/ty/2011hqj/20140508/logo/19.png",
+                  "show_match" : 1,
+                  "show_news" : 0,
+                  "name" : "\u8d85\u7ea7\u676f",
+                  "show_data" : 0,
+                  "id" : "19"
+               }
+            ],
+            "name" : "\u610f\u7532",
+            "show_data" : 1,
+            "logo" : "http://i2.sinaimg.cn/ty/2011hqj/20140508/logo/1.png",
+            "id" : "1",
+            "adtitle" : "",
+            "type" : "football",
+            "team" : {
+               "top" : [
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/104.png",
+                     "name" : "AC\u7c73\u5170",
+                     "id" : "104"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/103.png",
+                     "name" : "\u56fd\u9645\u7c73\u5170",
+                     "id" : "103"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/108.png",
+                     "name" : "\u5c24\u6587\u56fe\u65af",
+                     "id" : "108"
+                  }
+               ],
+               "more" : [
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/111.png",
+                     "name" : "\u7f57\u9a6c",
+                     "id" : "111"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/229.png",
+                     "name" : "\u90a3\u4e0d\u52d2\u65af",
+                     "id" : "229"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/106.png",
+                     "name" : "\u62c9\u9f50\u5965",
+                     "id" : "106"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/110.png",
+                     "name" : "\u4f5b\u7f57\u4f26\u8428",
+                     "id" : "110"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/2188.png",
+                     "name" : "\u70ed\u90a3\u4e9a",
+                     "id" : "2188"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/112.png",
+                     "name" : "\u4e4c\u8fea\u5185\u65af",
+                     "id" : "112"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/2125.png",
+                     "name" : "\u6851\u666e\u591a\u5229\u4e9a",
+                     "id" : "2125"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/109.png",
+                     "name" : "\u5e15\u5c14\u9a6c",
+                     "id" : "109"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/2190.png",
+                     "name" : "\u5df4\u52d2\u83ab",
+                     "id" : "2190"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/228.png",
+                     "name" : "\u4e9a\u7279\u5170\u5927",
+                     "id" : "228"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/1327.png",
+                     "name" : "\u5207\u6c83",
+                     "id" : "1327"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/1326.png",
+                     "name" : "\u90fd\u7075",
+                     "id" : "1326"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/2195.png",
+                     "name" : "\u5361\u5229\u4e9a\u91cc",
+                     "id" : "2195"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/22914.png",
+                     "name" : "\u8428\u7d22\u6d1b",
+                     "id" : "22914"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/122.png",
+                     "name" : "\u7ef4\u7f57\u7eb3",
+                     "id" : "122"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/2186.png",
+                     "name" : "\u6069\u6ce2\u5229",
+                     "id" : "2186"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/11685.png",
+                     "name" : "\u5207\u585e\u7eb3",
+                     "id" : "11685"
+                  }
+               ]
+            }
+         },
+         {
+            "show_team" : 0,
+            "show_match" : 1,
+            "show_news" : 1,
+            "adimage" : "",
+            "match" : [
+               {
+                  "logo" : "http://i0.sinaimg.cn/ty/2011hqj/20140508/logo/16.png",
+                  "show_match" : 1,
+                  "show_news" : 0,
+                  "name" : "\u5fb7\u56fd\u676f",
+                  "show_data" : 0,
+                  "id" : "16"
+               }
+            ],
+            "name" : "\u5fb7\u7532",
+            "show_data" : 1,
+            "logo" : "http://i0.sinaimg.cn/ty/2011hqj/20140508/logo/3.png",
+            "id" : "3",
+            "adtitle" : "",
+            "type" : "football",
+            "team" : {
+               "top" : [
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/32.png",
+                     "name" : "\u62dc\u4ec1\u6155\u5c3c\u9ed1",
+                     "id" : "32"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/28.png",
+                     "name" : "\u591a\u7279\u8499\u5fb7",
+                     "id" : "28"
+                  }
+               ],
+               "more" : [
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/26.png",
+                     "name" : "\u52d2\u6c83\u5e93\u68ee",
+                     "id" : "26"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/34.png",
+                     "name" : "\u6c99\u5c14\u514b04",
+                     "id" : "34"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/78.png",
+                     "name" : "\u4e91\u8fbe\u4e0d\u6765\u6885",
+                     "id" : "78"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/35.png",
+                     "name" : "\u6c49\u5821",
+                     "id" : "35"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/45.png",
+                     "name" : "\u65af\u56fe\u52a0\u7279",
+                     "id" : "45"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/84.png",
+                     "name" : "\u6c83\u5c14\u592b\u65af\u5821",
+                     "id" : "84"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/1305.png",
+                     "name" : "\u95e8\u5174\u683c\u62c9\u5fb7\u5df4\u8d6b",
+                     "id" : "1305"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/3846.png",
+                     "name" : "\u970d\u82ac\u6d77\u59c6",
+                     "id" : "3846"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/1026.png",
+                     "name" : "\u6c49\u8bfa\u5a0196",
+                     "id" : "1026"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/29.png",
+                     "name" : "\u6cd5\u5170\u514b\u798f",
+                     "id" : "29"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/1025.png",
+                     "name" : "\u7f8e\u56e0\u8328",
+                     "id" : "1025"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/38.png",
+                     "name" : "\u5f17\u83b1\u5821",
+                     "id" : "38"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/14247.png",
+                     "name" : "\u5965\u683c\u65af\u5821",
+                     "id" : "14247"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/36.png",
+                     "name" : "\u67cf\u6797\u8d6b\u5854",
+                     "id" : "36"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/198.png",
+                     "name" : "\u79d1\u9686",
+                     "id" : "198"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/11595.png",
+                     "name" : "\u5e15\u5fb7\u4f2f\u6069",
+                     "id" : "11595"
+                  }
+               ]
+            }
+         },
+         {
+            "show_team" : 0,
+            "show_match" : 1,
+            "show_news" : 1,
+            "adimage" : "",
+            "match" : [
+               {
+                  "logo" : "http://i3.sinaimg.cn/ty/2011hqj/20140508/logo/28.png",
+                  "show_match" : 1,
+                  "show_news" : 0,
+                  "name" : "\u6cd5\u56fd\u676f",
+                  "show_data" : 0,
+                  "id" : "28"
+               }
+            ],
+            "name" : "\u6cd5\u7532",
+            "show_data" : 1,
+            "logo" : "http://i2.sinaimg.cn/ty/2011hqj/20140508/logo/5.png",
+            "id" : "5",
+            "adtitle" : "",
+            "type" : "football",
+            "team" : {
+               "top" : [
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/316.png",
+                     "name" : "\u5df4\u9ece\u5723\u65e5\u5c14\u66fc",
+                     "id" : "316"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/317.png",
+                     "name" : "\u6469\u7eb3\u54e5",
+                     "id" : "317"
+                  }
+               ],
+               "more" : [
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/478.png",
+                     "name" : "\u9a6c\u8d5b",
+                     "id" : "478"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/436.png",
+                     "name" : "\u91cc\u6602",
+                     "id" : "436"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/476.png",
+                     "name" : "\u6ce2\u5c14\u591a",
+                     "id" : "476"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/1626.png",
+                     "name" : "\u8499\u5f7c\u5229\u57c3",
+                     "id" : "1626"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/456.png",
+                     "name" : "\u91cc\u5c14",
+                     "id" : "456"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/483.png",
+                     "name" : "\u5723\u57c3\u8482\u5b89",
+                     "id" : "483"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/3165.png",
+                     "name" : "\u5c3c\u65af",
+                     "id" : "3165"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/1385.png",
+                     "name" : "\u6d1b\u91cc\u6602",
+                     "id" : "1385"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/477.png",
+                     "name" : "\u96f7\u6069",
+                     "id" : "477"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/486.png",
+                     "name" : "\u56fe\u5362\u5179",
+                     "id" : "486"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/376.png",
+                     "name" : "\u5df4\u65af\u8482\u4e9a",
+                     "id" : "376"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/35151.png",
+                     "name" : "\u57c3\u7ef4\u6602",
+                     "id" : "35151"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/13205.png",
+                     "name" : "\u5170\u65af",
+                     "id" : "13205"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/416.png",
+                     "name" : "\u7518\u5188",
+                     "id" : "416"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/480.png",
+                     "name" : "\u5357\u7279",
+                     "id" : "480"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/479.png",
+                     "name" : "\u6885\u65af",
+                     "id" : "479"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/396.png",
+                     "name" : "\u6717\u65af",
+                     "id" : "396"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/10165.png",
+                     "name" : "\u5361\u6602",
+                     "id" : "10165"
+                  }
+               ]
+            }
+         },
+         {
+            "show_team" : 0,
+            "show_match" : 1,
+            "show_news" : 1,
+            "adimage" : "http://i2.sinaimg.cn/ty/2011hqj/20140410/pingan.png",
+            "match" : [
+               {
+                  "logo" : "http://i1.sinaimg.cn/ty/2011hqj/20140508/logo/219.png",
+                  "show_match" : 1,
+                  "show_news" : 1,
+                  "name" : "\u8db3\u534f\u676f",
+                  "show_data" : 0,
+                  "id" : "219"
+               },
+               {
+                  "logo" : "http://i1.sinaimg.cn/ty/2011hqj/20140508/logo/220.png",
+                  "show_match" : 1,
+                  "show_news" : 0,
+                  "name" : "\u8d85\u7ea7\u676f",
+                  "show_data" : 0,
+                  "id" : "220"
+               }
+            ],
+            "name" : "\u4e2d\u8d85",
+            "show_data" : 1,
+            "logo" : "http://i3.sinaimg.cn/ty/2011hqj/20140508/logo/213.png",
+            "id" : "213",
+            "adtitle" : "\u5e73\u5b89\u8d5e\u52a9",
+            "type" : "football",
+            "team" : {
+               "top" : [
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/5065.png",
+                     "name" : "\u5e7f\u5dde\u6052\u5927",
+                     "id" : "5065"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/136.png",
+                     "name" : "\u5317\u4eac\u56fd\u5b89",
+                     "id" : "136"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/144.png",
+                     "name" : "\u4e0a\u6d77\u7eff\u5730",
+                     "id" : "144"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/153.png",
+                     "name" : "\u5c71\u4e1c\u9c81\u80fd",
+                     "id" : "153"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/148.png",
+                     "name" : "\u5929\u6d25\u6cf0\u8fbe",
+                     "id" : "148"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/170.png",
+                     "name" : "\u8d35\u5dde\u4eba\u548c",
+                     "id" : "170"
+                  }
+               ],
+               "more" : [
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/179.png",
+                     "name" : "\u6c5f\u82cf\u821c\u5929",
+                     "id" : "179"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/139.png",
+                     "name" : "\u8fbd\u5b81\u5b8f\u8fd0",
+                     "id" : "139"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/172.png",
+                     "name" : "\u957f\u6625\u4e9a\u6cf0",
+                     "id" : "172"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/264.png",
+                     "name" : "\u676d\u5dde\u7eff\u57ce",
+                     "id" : "264"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/146.png",
+                     "name" : "\u5e7f\u5dde\u5bcc\u529b",
+                     "id" : "146"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/51975.png",
+                     "name" : "\u5927\u8fde\u963f\u5c14\u6ee8",
+                     "id" : "51975"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/266.png",
+                     "name" : "\u4e0a\u6d77\u7533\u946b",
+                     "id" : "266"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/41300.png",
+                     "name" : "\u4e0a\u6d77\u4e0a\u6e2f",
+                     "id" : "41300"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/178.png",
+                     "name" : "\u6cb3\u5357\u5efa\u4e1a",
+                     "id" : "178"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/47718.png",
+                     "name" : "\u54c8\u5c14\u6ee8\u6bc5\u817e",
+                     "id" : "47718"
+                  }
+               ]
+            }
+         },
+         {
+            "show_team" : 0,
+            "show_match" : 1,
+            "show_news" : 1,
+            "adimage" : "",
+            "match" : [],
+            "name" : "\u4e9a\u51a0",
+            "show_data" : 1,
+            "logo" : "http://i2.sinaimg.cn/ty/2011hqj/20140508/logo/328.png",
+            "id" : "328",
+            "adtitle" : "",
+            "type" : "football",
+            "team" : {
+               "top" : [
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/5065.png",
+                     "name" : "\u5e7f\u5dde\u6052\u5927",
+                     "id" : "5065",
+                     "proid" : "213"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/153.png",
+                     "name" : "\u5c71\u4e1c\u9c81\u80fd",
+                     "id" : "153",
+                     "proid" : "213"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/170.png",
+                     "name" : "\u8d35\u5dde\u4eba\u548c",
+                     "id" : "170",
+                     "proid" : "213"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/136.png",
+                     "name" : "\u5317\u4eac\u56fd\u5b89",
+                     "id" : "136",
+                     "proid" : "213"
+                  }
+               ],
+               "more" : []
+            }
+         },
+         {
+            "show_team" : 0,
+            "show_match" : 0,
+            "show_news" : 0,
+            "adimage" : "",
+            "match" : [],
+            "name" : "\u6b27\u6d32\u676f\u9884\u9009\u8d5b",
+            "show_data" : 0,
+            "logo" : "http://i3.sinaimg.cn/ty/2011hqj/20140508/logo/1139.png",
+            "id" : "1139",
+            "adtitle" : "",
+            "type" : "football",
+            "team" : {
+               "top" : [
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/944.png",
+                     "name" : "\u897f\u73ed\u7259",
+                     "id" : "944"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/922.png",
+                     "name" : "\u82f1\u683c\u5170",
+                     "id" : "922"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/926.png",
+                     "name" : "\u610f\u5927\u5229",
+                     "id" : "926"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/934.png",
+                     "name" : "\u5fb7\u56fd",
+                     "id" : "934"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/933.png",
+                     "name" : "\u6cd5\u56fd",
+                     "id" : "933"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/927.png",
+                     "name" : "\u8377\u5170",
+                     "id" : "927"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/939.png",
+                     "name" : "\u8461\u8404\u7259",
+                     "id" : "939"
+                  }
+               ]
+            }
+         },
+         {
+            "show_team" : 0,
+            "show_match" : 0,
+            "show_news" : 0,
+            "adimage" : "",
+            "match" : [],
+            "name" : "CBA",
+            "show_data" : 0,
+            "logo" : "http://i3.sinaimg.cn/ty/2011hqj/20140508/logo/cba.png",
+            "id" : "cba",
+            "adtitle" : "",
+            "type" : "basketball",
+            "team" : {
+               "top" : [
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/cba_1.png",
+                     "name" : "\u5e7f\u4e1c",
+                     "id" : "cba_1"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/cba_10.png",
+                     "name" : "\u5317\u4eac",
+                     "id" : "cba_10"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/cba_11.png",
+                     "name" : "\u65b0\u7586",
+                     "id" : "cba_11"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/cba_15.png",
+                     "name" : "\u5c71\u4e1c",
+                     "id" : "cba_15"
+                  }
+               ],
+               "more" : [
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/cba_3.png",
+                     "name" : "\u516b\u4e00",
+                     "id" : "cba_3"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/cba_9.png",
+                     "name" : "\u8fbd\u5b81",
+                     "id" : "cba_9"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/cba_16.png",
+                     "name" : "\u5e7f\u53a6",
+                     "id" : "cba_16"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/cba_8.png",
+                     "name" : "\u4e1c\u839e",
+                     "id" : "cba_8"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/cba_6.png",
+                     "name" : "\u6d59\u6c5f",
+                     "id" : "cba_6"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/cba_14.png",
+                     "name" : "\u5c71\u897f",
+                     "id" : "cba_14"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/cba_13.png",
+                     "name" : "\u4f5b\u5c71",
+                     "id" : "cba_13"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/cba_2.png",
+                     "name" : "\u6c5f\u82cf",
+                     "id" : "cba_2"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/cba_7.png",
+                     "name" : "\u798f\u5efa",
+                     "id" : "cba_7"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/cba_12.png",
+                     "name" : "\u5409\u6797",
+                     "id" : "cba_12"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/cba_113.png",
+                     "name" : "\u5929\u6d25",
+                     "id" : "cba_113"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/cba_4.png",
+                     "name" : "\u4e0a\u6d77",
+                     "id" : "cba_4"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/cba_114.png",
+                     "name" : "\u9752\u5c9b",
+                     "id" : "cba_114"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/cba_182.png",
+                     "name" : "\u56db\u5ddd",
+                     "id" : "cba_182"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/cba_369.png",
+                     "name" : "\u91cd\u5e86",
+                     "id" : "cba_369"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/cba_368.png",
+                     "name" : "\u540c\u66e6",
+                     "id" : "cba_368"
+                  }
+               ]
+            }
+         },
+         {
+            "show_team" : 0,
+            "show_match" : 1,
+            "show_news" : 1,
+            "adimage" : "",
+            "match" : [],
+            "name" : "\u7f51\u7403",
+            "show_data" : 1,
+            "logo" : "http://i2.sinaimg.cn/ty/2011hqj/20140508/logo/tennis.png",
+            "id" : "tennis",
+            "adtitle" : "",
+            "type" : "tennis"
+         },
+         {
+            "show_team" : 0,
+            "show_match" : 0,
+            "show_news" : 0,
+            "adimage" : "",
+            "match" : [],
+            "name" : "\u53f0\u7403",
+            "show_data" : 0,
+            "logo" : "http://i0.sinaimg.cn/ty/2011hqj/20140508/logo/billiard.png",
+            "id" : "billiard",
+            "adtitle" : "",
+            "type" : "billiard"
+         },
+         {
+            "show_team" : 0,
+            "show_match" : 0,
+            "show_news" : 0,
+            "adimage" : "",
+            "match" : [],
+            "name" : "\u4e16\u754c\u676f",
+            "show_data" : 0,
+            "logo" : "http://i2.sinaimg.cn/ty/2011hqj/20140508/logo/108.png",
+            "id" : "108",
+            "adtitle" : "",
+            "type" : "football",
+            "team" : {
+               "top" : [
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/944.png",
+                     "name" : "\u897f\u73ed\u7259",
+                     "id" : "944"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/922.png",
+                     "name" : "\u82f1\u683c\u5170",
+                     "id" : "922"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/926.png",
+                     "name" : "\u610f\u5927\u5229",
+                     "id" : "926"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/934.png",
+                     "name" : "\u5fb7\u56fd",
+                     "id" : "934"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/933.png",
+                     "name" : "\u6cd5\u56fd",
+                     "id" : "933"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/927.png",
+                     "name" : "\u8377\u5170",
+                     "id" : "927"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/939.png",
+                     "name" : "\u8461\u8404\u7259",
+                     "id" : "939"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/952.png",
+                     "name" : "\u5df4\u897f",
+                     "id" : "952"
+                  },
+                  {
+                     "logo" : "http://i0.sinaimg.cn/ty/2011hqj/0823/icon/950.png",
+                     "name" : "\u963f\u6839\u5ef7",
+                     "id" : "950"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/256.png",
+                     "name" : "\u97e9\u56fd",
+                     "id" : "256"
+                  },
+                  {
+                     "logo" : "http://i2.sinaimg.cn/ty/2011hqj/0823/icon/251.png",
+                     "name" : "\u4f0a\u6717",
+                     "id" : "251"
+                  },
+                  {
+                     "logo" : "http://i3.sinaimg.cn/ty/2011hqj/0823/icon/1165.png",
+                     "name" : "\u6fb3\u5927\u5229\u4e9a",
+                     "id" : "1165"
+                  },
+                  {
+                     "logo" : "http://i1.sinaimg.cn/ty/2011hqj/0823/icon/960.png",
+                     "name" : "\u65e5\u672c",
+                     "id" : "960"
+                  }
+               ],
+               "more" : []
+            }
+         },
+         {
+            "show_team" : 0,
+            "show_match" : 0,
+            "show_news" : 0,
+            "adimage" : "http://i3.sinaimg.cn/ty/2011hqj/20140508/logo/nazhijie.png",
+            "match" : [],
+            "name" : "\u4e9a\u8fd0\u4f1a",
+            "show_data" : 0,
+            "logo" : "http://i1.sinaimg.cn/ty/2011hqj/20140508/logo/asian_games.png",
+            "id" : "asian_games",
+            "adtitle" : "\u7eb3\u667a\u6377\u8d5e\u52a9",
+            "type" : "asian_games",
+            "team" : {
+               "top" : [],
+               "more" : []
+            }
+         }
+      ]
+   }
+}
