@@ -37,15 +37,12 @@
         vc.tabBarItem.image = [[UIImage imageNamed:imageArray[i]] imageWithRenderingMode:UIImageRenderingModeAlwaysOriginal];
         vc.tabBarItem.selectedImage = [[UIImage imageNamed:selectedImageArray[i]] imageWithRenderingMode:UIImageRenderingModeAlwaysOriginal];
         vc.tabBarItem.title = nameArray[i];
-//        UINavigationController *navCtrl=[[UINavigationController alloc]initWithRootViewController:vc];
-//        [navArray addObject:navCtrl];
-        [navArray addObject:vc];
+        UINavigationController *navCtrl=[[UINavigationController alloc]initWithRootViewController:vc];
+        [navArray addObject:navCtrl];
     }
     UIImage *image = [[UIImage imageNamed:@"tabbar_bg_6"]imageWithRenderingMode:UIImageRenderingModeAlwaysOriginal];
     [self.tabBar setBackgroundImage:image];
-//    self.tabBar.alpha = 0.9;
     self.tabBar.translucent = NO;
-//    self.tabBar.backgroundColor = [UIColor whiteColor];
     self.viewControllers = navArray;
 }
 
